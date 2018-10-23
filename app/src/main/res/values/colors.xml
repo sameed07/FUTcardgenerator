@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000 </color>
+    <color name="white">#ffffff </color>
+
+
+    <color name="gold_card_color">#544111</color>
+    <color name="silver_card_color">#4d4d4d</color>
+    <color name="bronze_card_color">#8c5a32</color>
+    <color name="totw_gold_card_color">#f0dca0</color>
+    <color name="totw_silver_card_color">#d7d7d7</color>
+    <color name="totw_bronze_card_color">#c88c78</color>
+
+
+</resources>

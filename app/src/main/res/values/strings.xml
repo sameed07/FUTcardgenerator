@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">FUT card generator</string>
+
+    <string name="ad_id_banner">ca-app-pub-8355474163260431/1895415031</string>
+
+    <string-array name="cards_name">
+
+        <item>Gold</item>
+
+        <item>Silver</item>
+
+        <item>Bronze</item>
+
+        <item>Totw Gold</item>
+
+        <item>Totw Silver</item>
+
+        <item>Totw Bronze</item>
+        <item>Champions Card</item>
+        <item>Icon Card</item>
+        <item>OTW Card</item>
+        <item>Europa League Card</item>
+        <item>Award Winner Card</item>
+        <item>FUT Champions Card</item>
+        <item>Hero Card</item>
+        <item>Record Breaker Card</item>
+        <item>Premium SBC Card</item>
+        <item>Pro Player Card</item>
+
+
+    </string-array>
+
+    <string-array name="country_flag">
+
+        <item>Argentina</item>
+
+        <item>France</item>
+
+        <item>Germany</item>
+
+        <item>Italy</item>
+
+        <item>Spain</item>
+
+        <item>Brazil</item>
+
+        <item>Colombia</item>
+
+
+    </string-array>
+
+    <string-array name="League_name">
+
+        <item>BUNDESLIGA</item>
+
+        <item>LA LIGA</item>
+
+        <item>PREMIER LEAGUE</item>
+
+    </string-array>
+
+    <string-array name="BUNDESLIGA">
+
+        <item>AUSBURGO</item>
+        <item>BAYER_LEVERKUSEN</item>
+        <item>LA BAYERN_MUNICH</item>
+        <item>BORUSSIA_DORTMUND </item>
+        <item>BORUSSIA_MÖNCHENGLADBACH</item>
+        <item>FORTUNA</item>
+        <item>FRIBURGO</item>
+        <item>HANNOVER_96</item>
+        <item>HERTHA_BERLIN</item>
+        <item>HOFFENHEIM</item>
+        <item>LEIPZIG</item>
+        <item>MAINZ_05</item>
+        <item>NÜRENBERG</item>
+        <item>SCHALKE_04</item>
+        <item>STUTTGART</item>
+        <item>WERDER_BREMEN</item>
+        <item>WOLFSBURGO</item>
+        <item>EINTRACHT_FRANKFURT</item>
+
+    </string-array>
+
+    <string-array name="Laliga">
+
+        <item>ALAVES</item>
+        <item>AT_MADRID</item>
+        <item>ATH_BILBAO</item>
+        <item>CELTA_VIGO </item>
+        <item>EIBAR</item>
+        <item>ESPANYOL</item>
+        <item>FC_BARCELONA</item>
+        <item>GETAFE</item>
+        <item>GIRONA</item>
+        <item>HUESCA</item>
+        <item>LEGANES</item>
+        <item>LEVANTE</item>
+        <item>RAYO_VALLECANO</item>
+        <item>REAL_BETIS</item>
+        <item>REAL_MADRID</item>
+        <item>REAL_SOCIEDAD</item>
+        <item>SEVILLA</item>
+        <item>VALENCIA</item>
+        <item>VALLADOLID</item>
+        <item>VILLARREAL</item>
+
+    </string-array>
+
+    <string-array name="Primier_League">
+
+        <item>ARSENAL</item>
+        <item>BOURNEMOUTH</item>
+        <item>BRIGHTON</item>
+        <item>BURNLEY </item>
+        <item>CARDIFF_CITY</item>
+        <item>CHELSEA</item>
+        <item>CRYSTAL_PALACE</item>
+        <item>EVERTON</item>
+        <item>FULHAM</item>
+        <item>HUDDERSFIELD</item>
+        <item>LEICESTER</item>
+        <item>LIVERPOOL</item>
+        <item>MANCHESTER_CITY</item>
+        <item>MANCHESTER_UNITED</item>
+        <item>NEW_CASTLE</item>
+        <item>SOUTHAMPTON</item>
+        <item>TOTTENHAM</item>
+        <item>WATFORD</item>
+        <item>WEST_HAM</item>
+        <item>WOLVERHAMPTON</item>
+
+    </string-array>
+
+</resources>
