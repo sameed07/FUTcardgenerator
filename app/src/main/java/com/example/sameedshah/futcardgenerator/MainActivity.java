@@ -62,9 +62,6 @@ public class MainActivity extends AppCompatActivity {
 
     private String CardName;
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -783,7 +780,63 @@ public class MainActivity extends AppCompatActivity {
 
                         break;
                     }
+                    case 16: {
 
+                        int totw_bronze = Color.parseColor("#AAAA96");
+                        cardLayout.setBackgroundResource(R.drawable.flash_back);
+
+                        txtPos.setTextColor(totw_bronze);
+                        txtPlayerName.setTextColor(totw_bronze);
+                        txtPos.setTextColor(totw_bronze);
+                        txtpos2.setTextColor(totw_bronze);
+                        txtPlayerName.setTextColor(totw_bronze);
+                        txtDef.setTextColor(totw_bronze);
+                        txtDri.setTextColor(totw_bronze);
+                        txtPac.setTextColor(totw_bronze);
+                        txtPas.setTextColor(totw_bronze);
+                        txtSho.setTextColor(totw_bronze);
+                        txtPhy.setTextColor(totw_bronze);
+
+                        break;
+                    }
+                    case 17: {
+
+                        int totw_bronze = Color.parseColor("#FAFAFA");
+                        cardLayout.setBackgroundResource(R.drawable.headliners);
+
+                        txtPos.setTextColor(totw_bronze);
+                        txtPlayerName.setTextColor(totw_bronze);
+                        txtPos.setTextColor(totw_bronze);
+                        txtpos2.setTextColor(totw_bronze);
+                        txtPlayerName.setTextColor(totw_bronze);
+                        txtDef.setTextColor(totw_bronze);
+                        txtDri.setTextColor(totw_bronze);
+                        txtPac.setTextColor(totw_bronze);
+                        txtPas.setTextColor(totw_bronze);
+                        txtSho.setTextColor(totw_bronze);
+                        txtPhy.setTextColor(totw_bronze);
+
+                        break;
+                    }
+                    case 18: {
+
+                        int totw_bronze = Color.parseColor("#DCC85F");
+                        cardLayout.setBackgroundResource(R.drawable.toty);
+
+                        txtPos.setTextColor(totw_bronze);
+                        txtPlayerName.setTextColor(totw_bronze);
+                        txtPos.setTextColor(totw_bronze);
+                        txtpos2.setTextColor(totw_bronze);
+                        txtPlayerName.setTextColor(totw_bronze);
+                        txtDef.setTextColor(totw_bronze);
+                        txtDri.setTextColor(totw_bronze);
+                        txtPac.setTextColor(totw_bronze);
+                        txtPas.setTextColor(totw_bronze);
+                        txtSho.setTextColor(totw_bronze);
+                        txtPhy.setTextColor(totw_bronze);
+
+                        break;
+                    }
                 }
             }
         });
@@ -841,7 +894,6 @@ public class MainActivity extends AppCompatActivity {
         mAdView.loadAd(adRequest);
 
     }
-
 
 
     public void fonts(){
